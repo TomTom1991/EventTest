@@ -1,4 +1,6 @@
 'use strict';
+//application to start internal service
+
 
 // express is a nodejs web server
 // https://www.npmjs.com/package/express
