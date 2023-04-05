@@ -63,6 +63,8 @@ describe('GET /events', function () {
   });
 });
 
+//post event function
+
 describe('POST /event', function () {
   let dbStub;
   beforeEach(function() {
