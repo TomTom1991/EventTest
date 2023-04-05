@@ -4,6 +4,9 @@ const app = require('../server');
 const sinon = require('sinon');
 const db = require('../repository');
 
+
+//get event function
+
 describe('GET /', function () {
   it('responds with json', function (done) {
     request(app)
